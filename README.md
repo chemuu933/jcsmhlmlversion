@@ -16,9 +16,9 @@ This project provides tools and resources for managing church ministry activitie
 
 ## Technology Stack
 
-- **HTML** (88.9%) - Markup and structure
-- **JavaScript** (8.6%) - Interactivity and dynamic features
-- **CSS** (2.5%) - Styling and layout
+- **HTML**
+- **JavaScript** 
+- **CSS**
 
 ## Getting Started
 
@@ -93,9 +93,6 @@ Contributions are welcome. Please follow these steps:
 
 Please include a clear description of the changes and any setup steps.
 
-## License
-
-This project is available under the MIT License. See the LICENSE file for details.
 
 ## Contact
 
